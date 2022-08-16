@@ -1,8 +1,8 @@
 .menu__link{
-    text-decoration: none;
     color: #808080;
-    text-transform: lowercase;
     margin-right: 1.25rem;
+    text-decoration: none;
+    text-transform: lowercase;
 }
 
 .menu__link.ativo{
@@ -11,6 +11,6 @@
 }
 
 .menu__link:hover{
-    text-decoration: underline;
     font-weight: bold;
+    text-decoration: underline;
 }
