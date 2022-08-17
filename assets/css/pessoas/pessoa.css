@@ -2,3 +2,10 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 768px ) {
+    .pessoa{
+        margin-bottom: 1rem;
+        align-items: center;
+    }    
+}
